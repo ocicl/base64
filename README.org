@@ -1,0 +1,9 @@
+* base64
+
+Base64 encoding and decoding for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/massung/base64.git |
+| commit  | d0d0f09                                   |
+| systems | base64                                    |
+|---------+-------------------------------------------|
